@@ -48,5 +48,15 @@
         "date_time": "22 July 3pm IST",
         "platform": "Hangout",
         "type": "Online"
+    },
+    {
+        "id": "6",
+        "eventName": "AWS",
+        "duration": "1hr",
+        "link": "www.google.com",
+        "cardColor": "linear-gradient(-225deg, #5D9FFF 0%, #B8DCFF 48%, #6BBBFF 100%)",
+        "date_time": "22 July 3pm IST",
+        "platform": "Hangout",
+        "type": "Online"
     }
 ]
