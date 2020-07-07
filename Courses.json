@@ -5,7 +5,7 @@
         "courseDescrption": "Skeleton of web development",
         "coursePrice": "1000 INR",
         "courseDuration": "2 months",
-        "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/Image/html5_css3.png?raw=true",
+        "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/html5_css3.png?raw=true",
         "syllabus": ["1:Basic HTML tags" ,"2: Document Model" ,"3","4","5","6","7"]
     },
     {
@@ -14,7 +14,7 @@
         "courseDescrption": "",
         "coursePrice": "2000 INR",
         "courseDuration": "2 months",
-        "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/Image/javascript.jpg?raw=true",
+        "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/javascript.jpg?raw=true",
         "syllabus": ["1","2","3","4"]
     },
     {
@@ -23,7 +23,7 @@
         "courseDescrption": "",
         "coursePrice": "3000 INR",
         "courseDuration": "6 months",
-        "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/Image/reactjs.png?raw=true",
+        "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/reactjs.png?raw=true",
         "syllabus": ["1","2","3","4"]
     },
     {
@@ -32,7 +32,7 @@
         "courseDescrption": "",
         "coursePrice": "3000 INR",
         "courseDuration": "6 months",
-        "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/Image/reactnative.png?raw=true",
+        "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/reactnative.png?raw=true",
         "syllabus": ["1","2","3","4"]
     },
     {
@@ -41,7 +41,7 @@
         "courseDescrption": "",
         "coursePrice": "3000 INR",
         "courseDuration": "6 months",
-        "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/Image/node.png?raw=true",
+        "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/node.png?raw=true",
         "syllabus": ["1","2","3","4"]
     },
     {
@@ -50,7 +50,7 @@
         "courseDescrption": "",
         "coursePrice": "3000 INR",
         "courseDuration": "6 months",
-        "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/Image/github.svg?raw=true",
+        "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/github.svg?raw=true",
         "syllabus": ["1","2","3","4"]
     },
     {
@@ -59,7 +59,7 @@
         "courseDescrption": "",
         "coursePrice": "500 INR",
         "courseDuration": "3 months",
-        "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/Image/python.png?raw=true",
+        "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/python.png?raw=true",
         "syllabus": ["1","2","3","4"]
     }
 ]
