@@ -6,7 +6,8 @@
         "teamMemberImage": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Images/rahul.png?raw=true",   
         "designation": "Founder",
         "joinedDate": "20 JAN 2020",
-        "desc": "He is a Software Developer with a great experience of 3+ year working in top IT companies in India. He is a tech enthuastic and hunger to learn new technologies. He love to teach to give tranining and a good guidence and mentoship to the young future around the Nation. He is having great exerience in Web & App Development"
+        "desc": "He is a Software Developer with a great experience of 3+ year working in top IT companies in India. He is a tech enthuastic and hunger to learn new technologies. He love to teach to give tranining and a good guidence and mentoship to the young future around the Nation. He is having great exerience in Web & App Development",
+		"expertIn": "HTML5, CSS3, ReactJS, React Native, JavaScript, Java, Firebase, Git/GitHub"
 
     },
     {
@@ -16,7 +17,8 @@
         "teamMemberImage": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Images/mohit.png?raw=true",
         "designation": "Co-Founder",
         "joinedDate": "20 JAN 2020",
-        "desc": "i am a software developer expert"
+        "desc": "",
+		"expertIn": ""
     },
     {
         "id":"3",
@@ -25,7 +27,8 @@
         "teamMemberImage": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Images/priyanka.png?raw=true",
         "designation": "Founder",
         "joinedDate": "20 JAN 2020",
-        "desc": "i am a software developer expert"
+        "desc": "i am a software developer expert",
+		"expertIn": ""
     },
     {
         "id":"5",
@@ -34,7 +37,8 @@
         "teamMemberImage": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Images/prabir.png?raw=true",
         "designation": "Co-Founder",
         "joinedDate": "20 JAN 2020",
-        "desc": "i am a software developer expert"
+        "desc": "i am a software developer expert",
+		"expertIn": ""
     },
     {
         "id":"6",
@@ -43,6 +47,7 @@
         "teamMemberImage": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Images/prabir.png?raw=true",
         "designation": "CapsCode Member",
         "joinedDate": "mm/dd/yyyy",
-        "desc": "He is a software developer expert and he writes tons of code.(You are 1 step behind of joining CapsCode, Just lean code and send resume to us and be the part of CapsCode in 2nd step. All the Best)"
+        "desc": "He is a software developer expert and he writes tons of code.(You are 1 step behind of joining CapsCode, Just lean code and send resume to us and be the part of CapsCode in 2nd step. All the Best)",
+		"expertIn": ""
     }
 ]
