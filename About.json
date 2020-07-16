@@ -6,7 +6,7 @@
         "teamMemberImage": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Images/rahul.png?raw=true",   
         "designation": "Founder",
         "joinedDate": "20 JAN 2020",
-        "desc": "He is a Software Developer with a great experience of 3+ year working in top IT companies in India. He is a tech enthuastic and hunger to learn new technologies. He love to teach to give tranining and a good guidence and mentoship to the young future around the Nation. He is having great exerience in Web & App Development",
+        "desc": "Rahul is a Software Developer with a great experience of 3+ year working in top IT companies in India. He is a tech enthuastic and hunger to learn new technologies. He love to teach to give tranining and a good guidence and mentoship to the young future around the Nation. He is having great exerience in Web & App Development",
 		"expertIn": "HTML5, CSS3, ReactJS, React Native, JavaScript, Java, Firebase, Git/GitHub"
 
     },
@@ -17,18 +17,18 @@
         "teamMemberImage": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Images/mohit.png?raw=true",
         "designation": "Co-Founder",
         "joinedDate": "20 JAN 2020",
-        "desc": "",
-		"expertIn": ""
+        "desc": "Mohit is FULL STACK DEVELOPER and he is a Campus Ambassador at Techgig.com and Coding Blocks,Core Team Memeber of GirlScript(Jamshedpur), Alexa Developer Community Member at Chandigarh University",
+		"expertIn": "HTML5, CSS3, JAVASCRIPT, MERN STACK"
     },
     {
         "id":"3",
         "avatarShortName": "P",
         "teamMemberName": "Priyanka",
         "teamMemberImage": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Images/priyanka.png?raw=true",
-        "designation": "Founder",
+        "designation": "Co-Founder",
         "joinedDate": "20 JAN 2020",
-        "desc": "i am a software developer expert",
-		"expertIn": ""
+        "desc": "Priyanka is digitial marketting expert. Working as a SEO (Search Engine Oprimization) expert and making website SEO friendly. Great expericence in Microsoft Tools and SAP",
+		"expertIn": "Microsot Tool, SEO, SAP"
     },
     {
         "id":"5",
@@ -37,8 +37,8 @@
         "teamMemberImage": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Images/prabir.png?raw=true",
         "designation": "Co-Founder",
         "joinedDate": "20 JAN 2020",
-        "desc": "i am a software developer expert",
-		"expertIn": ""
+        "desc": "Prabir is a Software Engineer having 7+ experiene in IT industry. He loves to transform code into something usable.",
+		"expertIn": "SQL, PL/SQL, Python, AWS, Scala"
     },
     {
         "id":"6",
@@ -47,7 +47,7 @@
         "teamMemberImage": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Images/prabir.png?raw=true",
         "designation": "CapsCode Member",
         "joinedDate": "mm/dd/yyyy",
-        "desc": "He is a software developer expert and he writes tons of code.(You are 1 step behind of joining CapsCode, Just lean code and send resume to us and be the part of CapsCode in 2nd step. All the Best)",
-		"expertIn": ""
+        "desc": "Send resume to capscode.team@gmail.com and get interviewed by our team and start working from the the next day of selection(very simple ?)",
+		"expertIn": "?"
     }
 ]
