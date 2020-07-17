@@ -6,7 +6,7 @@
         "coursePrice": "1000 INR",
         "courseDuration": "2 months",
         "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/html5_css3.png?raw=true",
-        "syllabus": ["1:Basic HTML tags" ,"2: Document Model" ,"3","4","5","6","7"]
+        "syllabus": ["1:Introduction" ,"2:HTML Element/Tags" ,"3:HTML Attributes","4:Styling HTML","5: HTML Classes and ID","6:HTML Table","7: Iframe","8:HTML Layouts","9:HTML Meta tags","10:Responsive web page","11:HTML ComputerCode","12:HTML Colors/Symbol/Emojis","13:HTML Forms","14:HTML Media(Audio, Video etc.)","15:HTML API's (adding Location etc.)","16:HTML MediaQueries"]
     },
     {
         "id": "2",
