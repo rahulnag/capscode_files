@@ -6,21 +6,21 @@
         "coursePrice": "1000 INR",
         "courseDuration": "2 months",
         "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/html5_css3.png?raw=true",
-        "syllabus": ["1:Introduction" ,"2:HTML Element/Tags" ,"3:HTML Attributes","4:Styling HTML","5: HTML Classes and ID","6:HTML Table","7: Iframe","8:HTML Layouts","9:HTML Meta tags","10:Responsive web page","11:HTML ComputerCode","12:HTML Colors/Symbol/Emojis","13:HTML Forms","14:HTML Media(Audio, Video etc.)","15:HTML API's (adding Location etc.)","16:HTML MediaQueries"]
+        "syllabus": ["1:Introduction" ,"2:HTML Element/Tags" ,"3:HTML Attributes","4:Styling HTML","5:HTML Classes and ID","6:HTML Table","7:Iframe","8:HTML Layouts","9:HTML Meta tags","10:Responsive web page","11:HTML ComputerCode","12:HTML Colors/Symbol/Emojis","13:HTML Forms","14:HTML Media(Audio, Video etc.)","15:HTML API's (adding Location etc.)","16:HTML MediaQueries","17:3 Projects","and many more..."]
     },
     {
         "id": "2",
         "courseName": "JavaScript",
-        "courseDescrption": "",
+        "courseDescrption": "Heart of Web Development",
         "coursePrice": "2000 INR",
         "courseDuration": "2 months",
         "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/javascript.jpg?raw=true",
-        "syllabus": ["1","2","3","4"]
+        "syllabus": ["1:","2","3","4"]
     },
     {
         "id": "3",
         "courseName": "React JS",
-        "courseDescrption": "",
+        "courseDescrption": "Amazing JavaScript Framework for Web",
         "coursePrice": "3000 INR",
         "courseDuration": "6 months",
         "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/reactjs.png?raw=true",
@@ -29,7 +29,7 @@
     {
         "id": "4",
         "courseName": "React Native",
-        "courseDescrption": "",
+        "courseDescrption": "Amazing JavaScript Framework for Mobile",
         "coursePrice": "3000 INR",
         "courseDuration": "6 months",
         "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/reactnative.png?raw=true",
@@ -38,7 +38,7 @@
     {
         "id": "5",
         "courseName": "Node JS",
-        "courseDescrption": "",
+        "courseDescrption": "Father of backend",
         "coursePrice": "3000 INR",
         "courseDuration": "6 months",
         "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/node.png?raw=true",
@@ -47,7 +47,7 @@
     {
         "id": "6",
         "courseName": "Git/ GitHub",
-        "courseDescrption": "",
+        "courseDescrption": "Management of your Project",
         "coursePrice": "3000 INR",
         "courseDuration": "6 months",
         "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/github.svg?raw=true",
@@ -56,7 +56,7 @@
     {
         "id": "7",
         "courseName": "Python Baics",
-        "courseDescrption": "",
+        "courseDescrption": "Amazing Language",
         "coursePrice": "500 INR",
         "courseDuration": "3 months",
         "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/python.png?raw=true",
