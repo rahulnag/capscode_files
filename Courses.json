@@ -6,7 +6,7 @@
         "coursePrice": "1000 INR",
         "courseDuration": "2 months",
         "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/html5_css3.png?raw=true",
-        "syllabus": ["1:Introduction" ,"2:HTML Element/Tags" ,"3:HTML Attributes","4:Styling HTML","5:HTML Classes and ID","6:HTML Table","7:Iframe","8:HTML Layouts","9:HTML Meta tags","10:Responsive web page","11:HTML ComputerCode","12:HTML Colors/Symbol/Emojis","13:HTML Forms","14:HTML Media(Audio, Video etc.)","15:HTML API's (adding Location etc.)","16:HTML MediaQueries","17:3 Projects","and many more..."]
+        "syllabus": ["1:Introduction" ,"2:HTML Element/Tags" ,"3:HTML Attributes","4:Styling HTML","5:HTML Classes and ID","6:HTML Table","7:Iframe","8:HTML Layouts","9:HTML Meta tags","10:Responsive web page","11:HTML ComputerCode","12:HTML Colors/Symbol/Emojis","13:HTML Forms","14:HTML Media(Audio, Video etc.)","15:HTML API's (adding Location etc.)","16:HTML MediaQueries","17:5 Mini Projects"," and many more..."]
     },
     {
         "id": "2",
@@ -15,7 +15,7 @@
         "coursePrice": "2000 INR",
         "courseDuration": "2 months",
         "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/javascript.jpg?raw=true",
-        "syllabus": ["1:","2","3","4"]
+        "syllabus": ["1:JS Introduction","2:JS Syntax","3:JS Operator","4:JS Arithmetic","5:JS Data Types","6:JS Functions","7:JS Objects","8:JS Events","9:String/ String methods","10:Numbers/Number method","11:Array/Array method","12:JS Boolean","13:JS Condition","14:Different Loops","15: Var, Let, Const","16:Hoisting","17:Scope in JS","18:this Keyword","19: Strict Mode","20: Map, Set etc","21: 3 Project","And Many more"]
     },
     {
         "id": "3",
