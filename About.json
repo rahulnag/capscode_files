@@ -12,12 +12,12 @@
     },
     {
         "id":"2",
-        "avatarShortName": "D",
-        "teamMemberName": "Dharmesh",
+        "avatarShortName": "M",
+        "teamMemberName": "Mohit",
         "teamMemberImage": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Images/mohit.png?raw=true",
         "designation": "Co-Founder",
         "joinedDate": "20 JAN 2020",
-        "desc": "Dharmesh is FULL STACK DEVELOPER and he is Campus Ambassador at Techgig.com and Coding Blocks,Core Team Memeber of GirlScript(Jamshedpur), Alexa Developer Community Member at Chandigarh University. He loves to teach students and engourage them in grabbing new technologies. He has great teach experiences and conducted 10+ workshops across India",
+        "desc": "Mohit is FULL STACK DEVELOPER and he is Campus Ambassador at Techgig.com and Coding Blocks,Core Team Memeber of GirlScript(Jamshedpur), Alexa Developer Community Member at Chandigarh University. He loves to teach students and engourage them in grabbing new technologies. He has great teach experiences and conducted 10+ workshops across India",
 		"expertIn": "HTML5, CSS3, JAVASCRIPT, MERN STACK"
     },
     {
