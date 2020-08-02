@@ -5,7 +5,7 @@
         "duration": "1hr",
         "link": "https://capscodecomingsoon.netlify.app/",
         "cardColor": "linear-gradient(to top, #cd9cf2 0%, #f6f3ff 100%)",
-        "date_time": "22 July 3pm IST",
+        "date_time": "22th Aug 7pm IST",
         "platform": "Google Meet",
         "type": "Online"
     },
@@ -15,7 +15,7 @@
         "duration": "1hr",
         "link": "https://capscodecomingsoon.netlify.app/",
         "cardColor": "linear-gradient(-20deg, #00cdac 0%, #8ddad5 100%)",
-        "date_time": "22 July 3pm IST",
+        "date_time": "12th Sept 3pm IST",
         "platform": "Google Meet",
         "type": "Online"
     },
@@ -25,18 +25,8 @@
         "duration": "1hr",
         "link": "https://capscodecomingsoon.netlify.app/",
         "cardColor": "linear-gradient(to top, #feada6 0%, #f5efef 100%)",
-        "date_time": "22 July 3pm IST",
-        "platform": "MS Team",
-        "type": "Online"
-    },
-    {
-        "id": "4",
-        "eventName": "AWS - Indroduction",
-        "duration": "1hr",
-        "link": "https://capscodecomingsoon.netlify.app/",
-        "cardColor": "linear-gradient(-225deg, #5D9FFF 0%, #B8DCFF 48%, #6BBBFF 100%)",
-        "date_time": "22 July 3pm IST",
-        "platform": "MS Team",
+        "date_time": "26 & 27th Sept 3pm IST",
+        "platform": "Microsoft Team",
         "type": "Online"
     }
 ]
