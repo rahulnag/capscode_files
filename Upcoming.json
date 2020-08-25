@@ -1,11 +1,11 @@
 [
     {
         "id": "1",
-        "eventName": "Basics of programing",
+        "eventName": "Basics of programming",
         "duration": "1hr",
-        "link": "https://capscodecomingsoon.netlify.app/",
+        "link": "https://forms.gle/KWKGPhxQuoGFC6Pt5",
         "cardColor": "linear-gradient(to top, #cd9cf2 0%, #f6f3ff 100%)",
-        "date_time": "22th Aug 7pm IST",
+        "date_time": "6th Sept 7pm IST",
         "platform": "Google Meet",
         "type": "Online"
     },
@@ -13,9 +13,9 @@
         "id": "2",
         "eventName": "HTML5 & CSS3 - Crash Course",
         "duration": "1hr",
-        "link": "https://capscodecomingsoon.netlify.app/",
+        "link": "https://forms.gle/JcB16mjXdYBqNjqPA",
         "cardColor": "linear-gradient(-20deg, #00cdac 0%, #8ddad5 100%)",
-        "date_time": "12th Sept 3pm IST",
+        "date_time": "3rd Oct Sept 3pm IST",
         "platform": "Google Meet",
         "type": "Online"
     },
@@ -23,9 +23,9 @@
         "id": "3",
         "eventName": "JavaScript - Crash Course",
         "duration": "1hr",
-        "link": "https://capscodecomingsoon.netlify.app/",
+        "link": "https://cccomingsoon.netlify.app",
         "cardColor": "linear-gradient(to top, #feada6 0%, #f5efef 100%)",
-        "date_time": "26 & 27th Sept 3pm IST",
+        "date_time": "Coming Soon",
         "platform": "Microsoft Team",
         "type": "Online"
     }
