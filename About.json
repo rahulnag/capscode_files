@@ -42,6 +42,16 @@
     },
     {
         "id":"6",
+        "avatarShortName": "A",
+        "teamMemberName": "Aplut",
+        "teamMemberImage": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Images/aplut.png?raw=true",
+        "designation": "App Developer",
+        "joinedDate": "30 AUG 2020",
+        "desc": "Aplut is a final year B.Tech student and he is a mobile application developer. Working as a part-time with CapsCode",
+		"expertIn": "Android app development, Java, Swift, Flutter"
+    },
+    {
+        "id":"7",
         "avatarShortName": "U",
         "teamMemberName": "You ?",
         "teamMemberImage": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Images/you.png?raw=true",
