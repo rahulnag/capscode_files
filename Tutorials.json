@@ -1,37 +1,33 @@
 [
   {
     "title": "JavaScript",
-	"subheader": "Offer Price",
-    "price": "999",
+	"subheader": "Tutorial",
     "description": ["10 users included", "2 GB of storage"],
-    "buttonText": "I Want This",
+    "buttonText": "Read Now.",
     "buttonVariant": "outlined",
 	"link": ""
   },
   {
     "title": "Pro",
-    "subheader": "Offer Price",
-    "price": "15",
+    "subheader": "Tutorial",
     "description": ["20 users included","10 GB of storage","Help center access"],
-    "buttonText": "I Want This",
-    "buttonVariant": "contained",
-	"link": ""
-  },
-  {
-    "title": "Enterprise",
-	"subheader": "Most popular",
-    "price": "30",
-    "description": ["50 users included","30 GB of storage","Help center access","Phone & email support"],
-    "buttonText": "I Want This",
+    "buttonText": "Read Now.",
     "buttonVariant": "outlined",
 	"link": ""
   },
   {
     "title": "Enterprise",
 	"subheader": "Most popular",
-    "price": "30",
     "description": ["50 users included","30 GB of storage","Help center access","Phone & email support"],
-    "buttonText": "I Want This",
+    "buttonText": "Read Now.",
+    "buttonVariant": "outlined",
+	"link": ""
+  },
+  {
+    "title": "Enterprise",
+	"subheader": "Most popular",
+    "description": ["50 users included","30 GB of storage","Help center access","Phone & email support"],
+    "buttonText": "Read Now.",
     "buttonVariant": "outlined",
 	"whatsapp": ""
   }
