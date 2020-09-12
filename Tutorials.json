@@ -1,33 +1,33 @@
 [
   {
     "title": "JavaScript",
-	"subheader": "Tutorial",
-    "description": ["10 users included", "2 GB of storage"],
-    "buttonText": "Read Now.",
+	"subheader": "It Includes",
+    "description": ["Basics", "Advacned","QnA", "Projects","Interview Questions"],
+    "buttonText": "Read Now",
     "buttonVariant": "outlined",
 	"link": ""
   },
   {
-    "title": "Pro",
-    "subheader": "Tutorial",
-    "description": ["20 users included","10 GB of storage","Help center access"],
-    "buttonText": "Read Now.",
+    "title": "HTML5",
+    "subheader": "It Includes",
+    "description": ["Basics","All Tags Ex.","Project","Interview Questions"],
+    "buttonText": "Read Now",
     "buttonVariant": "outlined",
 	"link": ""
   },
   {
-    "title": "Enterprise",
+    "title": "CSS3",
+	"subheader": "It Includes",
+    "description": ["Basics","All Tags Ex.","Project","Interview Questions"],
+    "buttonText": "Read Now",
+    "buttonVariant": "outlined",
+	"link": ""
+  },
+  {
+    "title": "C",
 	"subheader": "Most popular",
-    "description": ["50 users included","30 GB of storage","Help center access","Phone & email support"],
-    "buttonText": "Read Now.",
-    "buttonVariant": "outlined",
-	"link": ""
-  },
-  {
-    "title": "Enterprise",
-	"subheader": "Most popular",
-    "description": ["50 users included","30 GB of storage","Help center access","Phone & email support"],
-    "buttonText": "Read Now.",
+    "description": ["Basics","Advanced","Conceptual QnA","Interview QnA"],
+    "buttonText": "Read Now",
     "buttonVariant": "outlined",
 	"whatsapp": ""
   }
