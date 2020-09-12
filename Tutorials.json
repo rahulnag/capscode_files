@@ -1,12 +1,12 @@
 [
   {
-    "title": "Starter",
+    "title": "JavaScript",
 	"subheader": "Offer Price",
     "price": "999",
     "description": ["10 users included", "2 GB of storage", "Help center access", "Email support"],
     "buttonText": "I Want This",
     "buttonVariant": "outlined",
-	"whatsapp": "https://api.whatsapp.com/send?phone=918986774801&text=Hello%21%20CapsCode.%20I%20need%20your%20starter%20plan.Can%20you%20please%20help%20me ?"
+	"link": ""
   },
   {
     "title": "Pro",
@@ -15,7 +15,7 @@
     "description": ["20 users included","10 GB of storage","Help center access","Priority email support"],
     "buttonText": "I Want This",
     "buttonVariant": "contained",
-	"whatsapp": "https://api.whatsapp.com/send?phone=918986774801&text=Hello%21%20CapsCode.%20I%20need%20your%20starter%20plan.Can%20you%20please%20help%20me ?"
+	"link": ""
   },
   {
     "title": "Enterprise",
@@ -24,7 +24,7 @@
     "description": ["50 users included","30 GB of storage","Help center access","Phone & email support"],
     "buttonText": "I Want This",
     "buttonVariant": "outlined",
-	"whatsapp": "https://api.whatsapp.com/send?phone=918986774801&text=Hello%21%20CapsCode.%20I%20need%20your%20starter%20plan.Can%20you%20please%20help%20me ?"
+	"link": ""
   },
   {
     "title": "Enterprise",
@@ -33,6 +33,6 @@
     "description": ["50 users included","30 GB of storage","Help center access","Phone & email support"],
     "buttonText": "I Want This",
     "buttonVariant": "outlined",
-	"whatsapp": "https://api.whatsapp.com/send?phone=918986774801&text=Hello%21%20CapsCode.%20I%20need%20your%20starter%20plan.Can%20you%20please%20help%20me ?"
+	"whatsapp": ""
   }
 ]
