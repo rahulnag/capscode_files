@@ -2,7 +2,7 @@
   {
     "title": "JavaScript",
 	"subheader": "COMING SOON",
-    "description": ["Basics", "Advacned","QnA", "Projects","Interview Questions"],
+    "description": ["Basics", "Advanced","QnA", "Projects","Interview Questions"],
     "buttonText": "Read Now",
     "buttonVariant": "outlined",
 	"link": ""
