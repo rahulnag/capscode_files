@@ -1,7 +1,7 @@
 [
   {
     "title": "JavaScript",
-	"subheader": "It Includes",
+	"subheader": "COMING SOON",
     "description": ["Basics", "Advacned","QnA", "Projects","Interview Questions"],
     "buttonText": "Read Now",
     "buttonVariant": "outlined",
@@ -9,7 +9,7 @@
   },
   {
     "title": "HTML5",
-    "subheader": "It Includes",
+    "subheader": "COMING SOON",
     "description": ["Basics","All Tags Ex.","Project","Interview Questions"],
     "buttonText": "Read Now",
     "buttonVariant": "outlined",
@@ -17,7 +17,7 @@
   },
   {
     "title": "CSS3",
-	"subheader": "It Includes",
+	"subheader": "COMING SOON",
     "description": ["Basics","All Tags Ex.","Project","Interview Questions"],
     "buttonText": "Read Now",
     "buttonVariant": "outlined",

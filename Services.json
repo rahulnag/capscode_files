@@ -3,36 +3,45 @@
     "title": "Starter",
 	"subheader": "Offer Price",
     "price": "999",
-    "description": ["10 users included", "2 GB of storage", "Help center access", "Email support"],
+    "description": ["Single page website", "3 month support", "Free Logo", "Free Graphics"],
     "buttonText": "I Want This",
     "buttonVariant": "outlined",
 	"whatsapp": "https://api.whatsapp.com/send?phone=918986774801&text=Hello%21%20CapsCode.%20I%20need%20your%20starter%20plan.Can%20you%20please%20help%20me ?"
   },
   {
-    "title": "Pro",
-    "subheader": "Offer Price",
-    "price": "15",
-    "description": ["20 users included","10 GB of storage","Help center access","Priority email support"],
+    "title": "Ultimate",
+    "subheader": "Most Popular",
+    "price": "5000",
+    "description": ["Website + Android app","6 month support","24/7 support","Free Logo","Free Graphics"],
     "buttonText": "I Want This",
     "buttonVariant": "contained",
-	"whatsapp": "https://api.whatsapp.com/send?phone=918986774801&text=Hello%21%20CapsCode.%20I%20need%20your%20starter%20plan.Can%20you%20please%20help%20me ?"
+	"whatsapp": "https://api.whatsapp.com/send?phone=918986774801&text=Hello%21%20CapsCode.%20I%20need%20your%20Ultimate%20plan.Can%20you%20please%20help%20me ?"
   },
   {
-    "title": "Enterprise",
-	"subheader": "Most popular",
-    "price": "30",
-    "description": ["50 users included","30 GB of storage","Help center access","Phone & email support"],
+    "title": "Economy",
+	"subheader": "Offer Price",
+    "price": "1500",
+    "description": ["Multi page website","3 month support","Free Logo", "Free Graphics"],
     "buttonText": "I Want This",
     "buttonVariant": "outlined",
-	"whatsapp": "https://api.whatsapp.com/send?phone=918986774801&text=Hello%21%20CapsCode.%20I%20need%20your%20starter%20plan.Can%20you%20please%20help%20me ?"
+	"whatsapp": "https://api.whatsapp.com/send?phone=918986774801&text=Hello%21%20CapsCode.%20I%20need%20your%20Economy%20plan.Can%20you%20please%20help%20me ?"
   },
   {
-    "title": "Enterprise",
-	"subheader": "Most popular",
-    "price": "30",
-    "description": ["50 users included","30 GB of storage","Help center access","Phone & email support"],
+    "title": "Deluxe",
+	"subheader": "Offer Price",
+    "price": "3000",
+    "description": ["Multi page website","3 month support","Free Logo", "Free Graphics","Free .in Domain"],
     "buttonText": "I Want This",
     "buttonVariant": "outlined",
-	"whatsapp": "https://api.whatsapp.com/send?phone=918986774801&text=Hello%21%20CapsCode.%20I%20need%20your%20starter%20plan.Can%20you%20please%20help%20me ?"
+	"whatsapp": "https://api.whatsapp.com/send?phone=918986774801&text=Hello%21%20CapsCode.%20I%20need%20your%20Deluxe%20plan.Can%20you%20please%20help%20me ?"
+  },
+  {
+    "title": "Android App",
+	"subheader": "Offer Price",
+    "price": "30",
+    "description": ["Android app","Free publish","3 month Support","Free Logo", "Free Graphics"],
+    "buttonText": "I Want This",
+    "buttonVariant": "outlined",
+	"whatsapp": "https://api.whatsapp.com/send?phone=918986774801&text=Hello%21%20CapsCode.%20I%20need%20your%20App%20plan.Can%20you%20please%20help%20me ?"
   }
 ]
