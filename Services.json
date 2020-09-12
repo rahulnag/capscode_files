@@ -11,7 +11,7 @@
   {
     "title": "Ultimate",
     "subheader": "Most Popular",
-    "price": "5000",
+    "price": "4999",
     "description": ["Website + Android app","6 month support","24/7 support","Free Logo","Free Graphics"],
     "buttonText": "I Want This",
     "buttonVariant": "contained",
@@ -20,7 +20,7 @@
   {
     "title": "Economy",
 	"subheader": "Offer Price",
-    "price": "1500",
+    "price": "1499",
     "description": ["Multi page website","3 month support","Free Logo", "Free Graphics"],
     "buttonText": "I Want This",
     "buttonVariant": "outlined",
@@ -29,7 +29,7 @@
   {
     "title": "Deluxe",
 	"subheader": "Offer Price",
-    "price": "3000",
+    "price": "2999",
     "description": ["Multi page website","3 month support","Free Logo", "Free Graphics","Free .in Domain"],
     "buttonText": "I Want This",
     "buttonVariant": "outlined",
@@ -38,7 +38,7 @@
   {
     "title": "Android App",
 	"subheader": "Offer Price",
-    "price": "30",
+    "price": "2499",
     "description": ["Android app","Free publish","3 month Support","Free Logo", "Free Graphics"],
     "buttonText": "I Want This",
     "buttonVariant": "outlined",
