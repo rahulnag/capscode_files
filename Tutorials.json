@@ -8,6 +8,14 @@
 	"link": ""
   },
   {
+    "title": "CapsQuiz",
+	"subheader": "COMING SOON",
+    "description": ["All Quiz QnA","Quiz Explanations","Conceptual QnA","And many More"],
+    "buttonText": "Read Now",
+    "buttonVariant": "outlined",
+	"link": ""
+  },
+  {
     "title": "HTML5",
     "subheader": "COMING SOON",
     "description": ["Basics","All Tags Ex.","Project","Interview Questions"],
