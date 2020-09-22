@@ -33,7 +33,7 @@
   },
   {
     "title": "C",
-	"subheader": "Most popular",
+	"subheader": "",
     "description": ["Basics","Advanced","Conceptual QnA","Interview QnA"],
     "buttonText": "Coming Soon",
     "buttonVariant": "outlined",
@@ -41,7 +41,7 @@
   },
   {
     "title": "Conceptual Questions",
-	"subheader": "Most popular",
+	"subheader": "",
     "description": ["Basics","Advanced","Conceptual QnA","Interview QnA"],
     "buttonText": "Coming Soon",
     "buttonVariant": "outlined",
