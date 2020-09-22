@@ -43,5 +43,14 @@
     "buttonText": "I Want This",
     "buttonVariant": "outlined",
 	"whatsapp": "https://api.whatsapp.com/send?phone=918986774801&text=Hello%21%20CapsCode.%20I%20need%20your%20App%20plan.Can%20you%20please%20help%20me ?"
+  },
+  {
+    "title": "Ecommerce Site",
+	"subheader": "Coming Soon",
+    "price": "NA",
+    "description": ["3 month Support","Free Logo", "Free Graphics","Payment gateway"],
+    "buttonText": "Coming Soon",
+    "buttonVariant": "outlined",
+	"whatsapp": "https://api.whatsapp.com/send?phone=918986774801&text=Hello%21%20CapsCode.%20I%20need%20your%20Ecommerce%20plan.Can%20you%20please%20help%20me ?"
   }
 ]

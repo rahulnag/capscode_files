@@ -3,7 +3,7 @@
     "title": "JavaScript",
 	"subheader": "COMING SOON",
     "description": ["Basics", "Advanced","QnA", "Projects","Interview Questions"],
-    "buttonText": "Read Now",
+    "buttonText": "Coming Soon",
     "buttonVariant": "outlined",
 	"link": ""
   },
@@ -19,7 +19,7 @@
     "title": "HTML5",
     "subheader": "COMING SOON",
     "description": ["Basics","All Tags Ex.","Project","Interview Questions"],
-    "buttonText": "Read Now",
+    "buttonText": "Coming Soon",
     "buttonVariant": "outlined",
 	"link": ""
   },
@@ -27,7 +27,7 @@
     "title": "CSS3",
 	"subheader": "COMING SOON",
     "description": ["Basics","All Tags Ex.","Project","Interview Questions"],
-    "buttonText": "Read Now",
+    "buttonText": "Coming Soon",
     "buttonVariant": "outlined",
 	"link": ""
   },
@@ -35,8 +35,16 @@
     "title": "C",
 	"subheader": "Most popular",
     "description": ["Basics","Advanced","Conceptual QnA","Interview QnA"],
-    "buttonText": "Read Now",
+    "buttonText": "Coming Soon",
     "buttonVariant": "outlined",
-	"whatsapp": ""
+	"link": ""
+  },
+  {
+    "title": "Conceptual Questions",
+	"subheader": "Most popular",
+    "description": ["Basics","Advanced","Conceptual QnA","Interview QnA"],
+    "buttonText": "Coming Soon",
+    "buttonVariant": "outlined",
+	"link": ""
   }
 ]
