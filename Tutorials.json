@@ -33,15 +33,15 @@
   },
   {
     "title": "C",
-	"subheader": "",
+	"subheader": "COMING SOON",
     "description": ["Basics","Advanced","Conceptual QnA","Interview QnA"],
     "buttonText": "Coming Soon",
     "buttonVariant": "outlined",
 	"link": ""
   },
   {
-    "title": "Conceptual Questions",
-	"subheader": "",
+    "title": "Conceptual QnA",
+	"subheader": "COMING SOON",
     "description": ["Basics","Advanced","Conceptual QnA","Interview QnA"],
     "buttonText": "Coming Soon",
     "buttonVariant": "outlined",
