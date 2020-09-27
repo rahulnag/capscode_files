@@ -46,5 +46,13 @@
     "buttonText": "Coming Soon",
     "buttonVariant": "outlined",
 	"link": ""
+  },
+  {
+    "title": "Blog",
+	"subheader": "CapsCode Blog",
+    "description": ["Some talks","Technical announcements","Project announcements","Source Codes"],
+    "buttonText": "Read Now",
+    "buttonVariant": "outlined",
+	"link": "https://www.blog.capscode.in"
   }
 ]
