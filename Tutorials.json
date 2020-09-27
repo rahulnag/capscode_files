@@ -53,6 +53,6 @@
     "description": ["Some talks","Technical announcements","Project announcements","Source Codes"],
     "buttonText": "Read Now",
     "buttonVariant": "outlined",
-	"link": "https://www.blog.capscode.in"
+	"link": "https://blog.capscode.in"
   }
 ]
