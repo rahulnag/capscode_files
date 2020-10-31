@@ -4,9 +4,9 @@
         "avatarShortName": "R",
         "teamMemberName": "Rahul",
         "teamMemberImage": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Images/rahul.png?raw=true",   
-        "designation": "Founder",
+        "designation": "Founder/ CEO",
         "joinedDate": "20 JAN 2020",
-        "desc": "Rahul is a Software Developer with a great experience of 3+ year working in top IT companies in India. He is a tech enthuastic and hunger to learn new technologies. He love to teach to give tranining and a good guidence and mentoship to the young future around the Nation. He is having great exerience in Web & App Development",
+        "desc": "Rahul is a Software Developer with a great experience of 3+ year working with top IT companies in India. He is a tech enthusiastic and a hunger to learn new technologies. His love to teach to give training and a good guidance and mentorship for the young future around the Nation. He is having a great experience in Web & App Development",
 		"expertIn": "HTML5, CSS3, ReactJS, React Native, JavaScript, Java, Firebase, Git/GitHub"
 
     },
@@ -17,7 +17,7 @@
         "teamMemberImage": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Images/mohit.png?raw=true",
         "designation": "Event Organizer",
         "joinedDate": "20 JAN 2020",
-        "desc": "Mohit is FULL STACK DEVELOPER and he is Campus Ambassador at Techgig.com and Coding Blocks,Core Team Memeber of GirlScript(Jamshedpur), Alexa Developer Community Member at Chandigarh University. He loves to teach students and engourage them in grabbing new technologies. He has great teach experiences and conducted 10+ workshops across India",
+        "desc": "Mohit is FULL STACK DEVELOPER and he is Campus Ambassador at Techgig.com and Coding Blocks, Core Team Memeber of GirlScript (Jamshedpur), Alexa Developer Community Member at Chandigarh University. He loves to teach students and encourage them in grabbing new technologies. He has great experiences in teaching and conducted 10+ workshops across India online & offline",
 		"expertIn": "HTML5, CSS3, JAVASCRIPT, MERN STACK"
     },
     {
@@ -27,7 +27,7 @@
         "teamMemberImage": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Images/priyanka.png?raw=true",
         "designation": "Co-Founder",
         "joinedDate": "20 JAN 2020",
-        "desc": "Priyanka is digitial marketting expert. Working as a SEO (Search Engine Oprimization) expert and making website SEO (Search Engine Oprimization) friendly. She is having more than 3 year of experience in the top MNC's across the Globe. Also having great expericence in Microsoft Tools and SAP.",
+        "desc": "Priyanka is digital marketing expert. Working as an SEO (Search Engine Optimization) expert and making website SEO (Search Engine Optimization) friendly. She is having more than 3 years of experience in the top MNC's across the Globe. Also, having great experience with Microsoft Tools and SAP.",
 		"expertIn": "Microsot Tool, SEO, SAP"
     },
     {
@@ -37,7 +37,7 @@
         "teamMemberImage": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Images/prabir.png?raw=true",
         "designation": "Trainer/ Database Engineer",
         "joinedDate": "20 JAN 2020",
-        "desc": "Prabir is a Software Engineer having 7+ year of experiene in IT industry. He loves to transform code into something usable.",
+        "desc": "Prabir is a Software Engineer having 7+ year of experience in IT industry. He loves to transform the code into something usable.",
 		"expertIn": "SQL, PL/SQL, Python, AWS, Scala"
     },
     {
@@ -47,7 +47,7 @@
         "teamMemberImage": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Images/aplut.png?raw=true",
         "designation": "App Developer",
         "joinedDate": "30 AUG 2020",
-        "desc": "Aplut is a final year B.Tech student and he is a mobile application developer. Working as a part-time with CapsCode",
+        "desc": "Aplut is a final year B. Tech student and he is a mobile application developer. Working as a part-time with CapsCode",
 		"expertIn": "Android app development, Java, Swift, Flutter"
     },
     {
@@ -57,7 +57,7 @@
         "teamMemberImage": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Images/you.png?raw=true",
         "designation": "CapsCode Member",
         "joinedDate": "mm/dd/yyyy",
-        "desc": "Send resume to capscode.team@gmail.com and get interviewed by our team and start working from the the next day of selection(very simple ?)",
+        "desc": "Send resume to capscode.team@gmail.com and get interviewed by our team and start working from the the next day of selection(isn't simple ?)",
 		"expertIn": "?"
     }
 ]
