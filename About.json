@@ -1,36 +1,5 @@
 [
     {
-        "id":"1",
-        "avatarShortName": "R",
-        "teamMemberName": "Rahul",
-        "teamMemberImage": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Images/rahul.jpeg?raw=true",   
-        "designation": "Founder/ CEO",
-        "joinedDate": "20 JAN 2020",
-        "desc": "Rahul is a Software Developer with a great experience of 3+ year working with top IT companies in India. He is a tech enthusiastic and a hunger to learn new technologies. His love to teach to give training and a good guidance and mentorship for the young future around the Nation. He is having a great experience in Web & App Development",
-		"expertIn": "HTML5, CSS3, ReactJS, React Native, JavaScript, Java, Firebase, Git/GitHub"
-
-    },
-    {
-        "id":"3",
-        "avatarShortName": "P",
-        "teamMemberName": "Priyanka",
-        "teamMemberImage": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Images/priyanka.png?raw=true",
-        "designation": "Co-Founder",
-        "joinedDate": "20 JAN 2020",
-        "desc": "Priyanka is digital marketing expert. Working as an SEO (Search Engine Optimization) expert and making website SEO (Search Engine Optimization) friendly. She is having more than 3 years of experience in the top MNC's across the Globe. Also, having great experience with Microsoft Tools and SAP.",
-		"expertIn": "Microsot Tool, SEO, SAP"
-    },
-    {
-        "id":"5",
-        "avatarShortName": "P",
-        "teamMemberName": "Prabir",
-        "teamMemberImage": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Images/prabir.png?raw=true",
-        "designation": "Trainer/ Database Engineer",
-        "joinedDate": "20 JAN 2020",
-        "desc": "Prabir is a Software Engineer having 7+ year of experience in IT industry. He loves to transform the code into something usable.",
-		"expertIn": "SQL, PL/SQL, Python, AWS, Scala"
-    },
-    {
         "id":"7",
         "avatarShortName": "U",
         "teamMemberName": "You ?",
