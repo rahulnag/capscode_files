@@ -3,22 +3,12 @@
         "id":"1",
         "avatarShortName": "R",
         "teamMemberName": "Rahul",
-        "teamMemberImage": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Images/rahul.png?raw=true",   
+        "teamMemberImage": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Images/rahul.jpeg?raw=true",   
         "designation": "Founder/ CEO",
         "joinedDate": "20 JAN 2020",
         "desc": "Rahul is a Software Developer with a great experience of 3+ year working with top IT companies in India. He is a tech enthusiastic and a hunger to learn new technologies. His love to teach to give training and a good guidance and mentorship for the young future around the Nation. He is having a great experience in Web & App Development",
 		"expertIn": "HTML5, CSS3, ReactJS, React Native, JavaScript, Java, Firebase, Git/GitHub"
 
-    },
-    {
-        "id":"2",
-        "avatarShortName": "M",
-        "teamMemberName": "Mohit",
-        "teamMemberImage": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Images/mohit.png?raw=true",
-        "designation": "Event Organizer",
-        "joinedDate": "20 JAN 2020",
-        "desc": "Mohit is FULL STACK DEVELOPER and he is Campus Ambassador at Techgig.com and Coding Blocks, Core Team Memeber of GirlScript (Jamshedpur), Alexa Developer Community Member at Chandigarh University. He loves to teach students and encourage them in grabbing new technologies. He has great experiences in teaching and conducted 10+ workshops across India online & offline",
-		"expertIn": "HTML5, CSS3, JAVASCRIPT, MERN STACK"
     },
     {
         "id":"3",
@@ -39,16 +29,6 @@
         "joinedDate": "20 JAN 2020",
         "desc": "Prabir is a Software Engineer having 7+ year of experience in IT industry. He loves to transform the code into something usable.",
 		"expertIn": "SQL, PL/SQL, Python, AWS, Scala"
-    },
-    {
-        "id":"6",
-        "avatarShortName": "A",
-        "teamMemberName": "Aplut",
-        "teamMemberImage": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Images/aplut.png?raw=true",
-        "designation": "App Developer",
-        "joinedDate": "30 AUG 2020",
-        "desc": "Aplut is a final year B. Tech student and he is a mobile application developer. Working as a part-time with CapsCode",
-		"expertIn": "Android app development, Java, Swift, Flutter"
     },
     {
         "id":"7",
