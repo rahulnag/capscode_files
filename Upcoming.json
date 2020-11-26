@@ -4,7 +4,7 @@
         "eventName": "Basics of programming",
         "duration": "1hr",
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSdp2X8nd-zlBM2xlBloZSLL0pyH2kYCq6iAwQUEgNTAfrcbrA/viewform?usp=sf_link",
-        "cardColor": "linear-gradient(to top, #cd9cf2 0%, #f6f3ff 100%)",
+        "cardColor": "linear-gradient(to right, #2193b0, #6dd5ed)",
         "date_time": "Coming Soon",
         "platform": "Google Meet",
         "type": "Online"
@@ -24,7 +24,7 @@
         "eventName": "JavaScript - Crash Course",
         "duration": "1hr",
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSejnBoEqvACvchgxIUsqLZa57c-3mOzWdD7i3EzrdvSs6b6jA/viewform?usp=sf_link",
-        "cardColor": "linear-gradient(to top, #feada6 0%, #f5efef 100%)",
+        "cardColor": "linear-gradient(to right, #ed213a, #93291e)",
         "date_time": "Coming Soon",
         "platform": "Google Meet",
         "type": "Online"
