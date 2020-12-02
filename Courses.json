@@ -7,7 +7,7 @@
 		"enrollLink": "https://docs.google.com/forms/d/e/1FAIpQLSe8QvXqgVf7S9nPb9BEfYjwwNsSdMmUesWcZxci6ffor-fjPQ/viewform?usp=sf_link",
         "courseDuration": "2 months",
         "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/html5_css3.png?raw=true",
-        "syllabus": ["0: Weekly 121 doubt clearning classes","1:Introduction" ,"2:HTML Element/Tags" ,"3:HTML Attributes","4:Styling HTML","5:HTML Classes and ID","6:HTML Table","7:Iframe","8:HTML Layouts","9:HTML Meta tags","10:Responsive web page","11:HTML ComputerCode","12:HTML Colors/Symbol/Emojis","13:HTML Forms","14:HTML Media(Audio, Video etc.)","15:HTML API's (adding Location etc.)","16:HTML MediaQueries","17:5 Mini Projects"," And many more..."]
+        "syllabus": ["0: Weekly 1-2-1 doubt clearning classes","1:Introduction" ,"2:HTML Element/Tags" ,"3:HTML Attributes","4:Styling HTML","5:HTML Classes and ID","6:HTML Table","7:Iframe","8:HTML Layouts","9:HTML Meta tags","10:Responsive web page","11:HTML ComputerCode","12:HTML Colors/Symbol/Emojis","13:HTML Forms","14:HTML Media(Audio, Video etc.)","15:HTML API's (adding Location etc.)","16:HTML MediaQueries","17:5 Mini Projects"," And many more..."]
     },
 	{
         "id": "8",
@@ -17,7 +17,7 @@
 		"enrollLink": "https://docs.google.com/forms/d/e/1FAIpQLSciSr8FoUUlH6YbYZfYW6GszC0BrqsAX8PHsz4JalBW6Y-XTA/viewform?usp=sf_link",
         "courseDuration": "1 Week",
         "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/canva.png?raw=true",
-        "syllabus": ["0: 121 doubt clearning classes","1: What is canva","2: How to design graphics","3: How to choose best colors","4: How to use 100's of tools in canva","5: How to add animated stickers","And many more..."]
+        "syllabus": ["0: 1-2-1 doubt clearning classes","1: What is canva","2: How to design graphics","3: How to choose best colors","4: How to use 100's of tools in canva","5: How to add animated stickers","And many more..."]
     },
     {
         "id": "2",
@@ -27,7 +27,7 @@
 		"enrollLink": "https://docs.google.com/forms/d/e/1FAIpQLSfYBz-kOWzsuAjZbwwhP6rfD4Lo1EF2x0nMybiaS7zUfFlhZQ/viewform?usp=sf_link",
         "courseDuration": "2 months",
         "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/javascript.jpg?raw=true",
-        "syllabus": ["0: Weekly 121 doubt clearning classes","1:JS Introduction","2:JS Syntax","3:JS Operator","4:JS Arithmetic","5:JS Data Types and Type casting","6:JS Functions","7:JS Objects","8:JS Events","9:String/ String methods","10:Numbers/Number method","11:Array/Array method","12:JS Boolean","13:JS Condition","14:Different Loops","15: Var, Let, Const","16:Hoisting","17:Scope in JS","18:this Keyword","19: Strict Mode","20: Map, Set etc","21: 3 Project","And many more..."]
+        "syllabus": ["0: Weekly 1-2-1 doubt clearning classes","1:JS Introduction","2:JS Syntax","3:JS Operator","4:JS Arithmetic","5:JS Data Types and Type casting","6:JS Functions","7:JS Objects","8:JS Events","9:String/ String methods","10:Numbers/Number method","11:Array/Array method","12:JS Boolean","13:JS Condition","14:Different Loops","15: Var, Let, Const","16:Hoisting","17:Scope in JS","18:this Keyword","19: Strict Mode","20: Map, Set etc","21: 3 Project","And many more..."]
     },
     {
         "id": "3",
@@ -37,7 +37,7 @@
 		"enrollLink": "https://docs.google.com/forms/d/e/1FAIpQLScu23bRZ2OjNmZFLVcBp2S0a1_O6hBBu0Gg2Uq7fi72uRFDRg/viewform?usp=sf_link",
         "courseDuration": "4 months",
         "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/reactjs.png?raw=true",
-        "syllabus": ["0: Weekly 121 doubt clearning classes","1:What is React","2:Use of React","3:Types of components","4:Components & Props","5:State and Lifecycle","6: Event Handling & Conditional Rendering","7: List in React","8: Inheritance in React","9: Forwarding Refs","10: Context","11:Fragments","12:HOC","13: Portals","14: Portals & Reconciliation","15: ReactDOM and DOM Elements","16: Hooks"]
+        "syllabus": ["0: Weekly 1-2-1 doubt clearning classes","1:What is React","2:Use of React","3:Types of components","4:Components & Props","5:State and Lifecycle","6: Event Handling & Conditional Rendering","7: List in React","8: Inheritance in React","9: Forwarding Refs","10: Context","11:Fragments","12:HOC","13: Portals","14: Portals & Reconciliation","15: ReactDOM and DOM Elements","16: Hooks"]
     },
     {
         "id": "5",
@@ -47,7 +47,7 @@
 		"enrollLink": "https://docs.google.com/forms/d/e/1FAIpQLSfr4eO9wbc4r8ohUvVcWCto3xT8vgLDY_qcFVf0U9STzv89ZA/viewform?usp=sf_link",
         "courseDuration": "2 months",
         "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/node.png?raw=true",
-        "syllabus": ["0: Weekly 121 doubt clearning classes","1: Introduction","2: Modules","3: File System","4: NPM","5: Events","6: Express JS"]
+        "syllabus": ["0: Weekly 1-2-1 doubt clearning classes","1: Introduction","2: Modules","3: File System","4: NPM","5: Events","6: Express JS"]
     },
     {
         "id": "6",
@@ -57,7 +57,7 @@
 		"enrollLink": "https://docs.google.com/forms/d/e/1FAIpQLSfSlfhpTGHIhao0dEPbOthRFCGWjsmkJ7BHdxkuwlYSY6B1WA/viewform?usp=sf_link",
         "courseDuration": "1 months",
         "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/github.svg?raw=true",
-        "syllabus": ["0: Weekly 121 doubt clearning classes","1: Intoduction","2: Why Git","3: Basic Commands","4: Forking","5: Pull request","6: Merge","7: Working on other open source project","8: Reprositories","And many more..."]
+        "syllabus": ["0: Weekly 1-2-1 doubt clearning classes","1: Intoduction","2: Why Git","3: Basic Commands","4: Forking","5: Pull request","6: Merge","7: Working on other open source project","8: Reprositories","And many more..."]
     },
     {
         "id": "7",
@@ -67,6 +67,6 @@
 		"enrollLink": "https://docs.google.com/forms/d/e/1FAIpQLSe2a6WdWMlrlmf6n3iQGj0JznjiNmK6R0bf3J5P2ysXVvhjeg/viewform?usp=sf_link",
         "courseDuration": "2 months",
         "image": "https://raw.githubusercontent.com/rahulnag/capscodefiles/master/Image/python.png?raw=true",
-        "syllabus": ["0: Weekly 121 doubt clearning classes","1: Introduction","2: Data Types","3: Variables","4: Type casting","5: Operator","6: List, Tuples, Sets","7: Directories","8: Loops","9:Array","10: Modules","11: JSON and File Handling","12: NumPy","13: 2 Basic Project", "And many more..."]
+        "syllabus": ["0: Weekly 1-2-1 doubt clearning classes","1: Introduction","2: Data Types","3: Variables","4: Type casting","5: Operator","6: List, Tuples, Sets","7: Directories","8: Loops","9:Array","10: Modules","11: JSON and File Handling","12: NumPy","13: 2 Basic Project", "And many more..."]
     }
 ]
