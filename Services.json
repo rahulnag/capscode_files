@@ -11,16 +11,16 @@
   {
     "title": "Ultimate",
     "subheader": "Most Popular",
-    "price": "4999",
+    "price": "8999",
     "description": ["Website + Android app","6 month support","24/7 support","Free Logo","Free Graphics"],
-    "buttonText": "I Want This",
+    "buttonText": "Coming Soon",
     "buttonVariant": "contained",
-	"whatsapp": "https://api.whatsapp.com/send?phone=918986774801&text=Hello%21%20CapsCode.%20I%20need%20your%20Ultimate%20plan.Can%20you%20please%20help%20me ?"
+	"whatsapp": ""
   },
   {
     "title": "Economy",
 	"subheader": "Offer Price",
-    "price": "1499",
+    "price": "1999",
     "description": ["Multi page website","3 month support","Free Logo", "Free Graphics"],
     "buttonText": "I Want This",
     "buttonVariant": "outlined",
@@ -40,9 +40,9 @@
 	"subheader": "Offer Price",
     "price": "2499",
     "description": ["Android app","Free publish","3 month Support","Free Logo", "Free Graphics"],
-    "buttonText": "I Want This",
+    "buttonText": "Coming Soon",
     "buttonVariant": "outlined",
-	"whatsapp": "https://api.whatsapp.com/send?phone=918986774801&text=Hello%21%20CapsCode.%20I%20need%20your%20App%20plan.Can%20you%20please%20help%20me ?"
+	"whatsapp": ""
   },
   {
     "title": "Ecommerce Site",
