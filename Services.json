@@ -2,7 +2,7 @@
   {
     "title": "Starter",
 	"subheader": "Offer Price",
-    "price": "999",
+    "price": "1999",
     "description": ["Single page website", "3 month support", "Free Logo", "Free Graphics"],
     "buttonText": "I Want This",
     "buttonVariant": "outlined",
@@ -11,7 +11,7 @@
   {
     "title": "Ultimate",
     "subheader": "Most Popular",
-    "price": "8999",
+    "price": "9999",
     "description": ["Website + Android app","6 month support","24/7 support","Free Logo","Free Graphics"],
     "buttonText": "Coming Soon",
     "buttonVariant": "contained",
@@ -20,7 +20,7 @@
   {
     "title": "Economy",
 	"subheader": "Offer Price",
-    "price": "1999",
+    "price": "3999",
     "description": ["Multi page website","3 month support","Free Logo", "Free Graphics"],
     "buttonText": "I Want This",
     "buttonVariant": "outlined",
@@ -29,7 +29,7 @@
   {
     "title": "Deluxe",
 	"subheader": "Offer Price",
-    "price": "2999",
+    "price": "3999",
     "description": ["Multi page website","3 month support","Free Logo", "Free Graphics","Free .in Domain"],
     "buttonText": "I Want This",
     "buttonVariant": "outlined",
