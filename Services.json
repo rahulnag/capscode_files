@@ -20,7 +20,7 @@
   {
     "title": "Economy",
 	"subheader": "Offer Price",
-    "price": "5999",
+    "price": "7999",
     "description": ["Multi page website","3 month support","Free Logo", "Free Graphics"],
     "buttonText": "I Want This",
     "buttonVariant": "outlined",
@@ -29,14 +29,14 @@
   {
     "title": "Deluxe",
 	"subheader": "Offer Price",
-    "price": "8999",
-    "description": ["Multi page website","3 month support","Free Logo", "Free Graphics","Free .in Domain"],
+    "price": "9999",
+    "description": ["Multi page website","5 month support","Free Logo", "Free Graphics","Free .in Domain(*)"],
     "buttonText": "I Want This",
     "buttonVariant": "outlined",
 	"whatsapp": "https://api.whatsapp.com/send?phone=918986774801&text=Hello%21%20CapsCode.%20I%20need%20your%20Deluxe%20plan.Can%20you%20please%20help%20me ?"
   },
   {
-    "title": "Android App",
+    "title": "Android App/ PWA",
 	"subheader": "Offer Price",
     "price": "2499",
     "description": ["Android app","Free publish","3 month Support","Free Logo", "Free Graphics"],
