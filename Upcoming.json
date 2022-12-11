@@ -4,7 +4,7 @@
         "eventName": "Basics of programming",
         "duration": "1hr",
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSdp2X8nd-zlBM2xlBloZSLL0pyH2kYCq6iAwQUEgNTAfrcbrA/viewform?usp=sf_link",
-        "cardColor": "linear-gradient(315deg, #0beef9 0%, #48a9fe 74%)",
+        "cardColor": "#CDF0EA",
         "date_time": "Coming Soon",
         "platform": "Google Meet",
         "type": "Online"
@@ -14,7 +14,7 @@
         "eventName": "HTML5 & CSS3 - Crash Course",
         "duration": "1hr",
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSdjkU9-GJmZA3XxMOFoQpjstJzpgHk6jBR6culLsFrUv2aNAw/viewform?usp=sf_link",
-        "cardColor": "linear-gradient(-20deg, #00cdac 0%, #8ddad5 100%)",
+        "cardColor": "#FFE6E6",
         "date_time": "Coming Soon",
         "platform": "Google Meet",
         "type": "Online"
@@ -24,7 +24,7 @@
         "eventName": "JavaScript - Crash Course",
         "duration": "1hr",
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSejnBoEqvACvchgxIUsqLZa57c-3mOzWdD7i3EzrdvSs6b6jA/viewform?usp=sf_link",
-        "cardColor": "radial-gradient( circle farthest-corner at 10% 20%,  rgba(255,252,200,1) 0%, rgba(255,247,94,1) 90% )",
+        "cardColor": "#B8F1B0",
         "date_time": "Coming Soon",
         "platform": "Google Meet",
         "type": "Online"
