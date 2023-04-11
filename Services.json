@@ -1,56 +1,96 @@
 [
   {
     "title": "Starter",
-	"subheader": "Offer Price",
+    "subheader": "Offer Price",
     "price": "1999",
-    "description": ["Single page website",,"6 month free hosting","3 month support","24/7 support for 6 months", "Free logo", "Free graphics"],
+    "description": [
+      "Single page website",
+      "6 month free hosting",
+      "3 month support",
+      "24/7 support for 6 months",
+      "Free logo",
+      "Free graphics"
+    ],
     "buttonText": "I Want This",
     "buttonVariant": "outlined",
-	"whatsapp": "https://api.whatsapp.com/send?phone=918986774801&text=Hello%21%20CapsCode.%20I%20need%20your%20starter%20plan.Can%20you%20please%20help%20me ?"
+    "whatsapp": "https://api.whatsapp.com/send?phone=918986774801&text=Hello%21%20CapsCode.%20I%20need%20your%20starter%20plan.Can%20you%20please%20help%20me ?"
   },
   {
     "title": "Ultimate",
     "subheader": "Most Popular",
     "price": "12999",
-    "description": ["Website + Android app","Free hosting for 1 year","6 month support","24/7 support for 6 month","Free logo","Free graphics"],
+    "description": [
+      "Website + Android app",
+      "Free hosting for 1 year",
+      "6 month support",
+      "24/7 support for 6 month",
+      "Free logo",
+      "Free graphics"
+    ],
     "buttonText": "Coming Soon",
     "buttonVariant": "contained",
-	"whatsapp": ""
+    "whatsapp": ""
   },
   {
     "title": "Economy",
-	"subheader": "Offer Price",
+    "subheader": "Offer Price",
     "price": "7999",
-    "description": ["Multi page website","6 month free hosting","3 month support","24/7 support","Free logo", "Free graphics"],
+    "description": [
+      "Multi page website",
+      "6 month free hosting",
+      "3 month support",
+      "24/7 support",
+      "Free logo",
+      "Free graphics"
+    ],
     "buttonText": "I Want This",
     "buttonVariant": "outlined",
-	"whatsapp": "https://api.whatsapp.com/send?phone=918986774801&text=Hello%21%20CapsCode.%20I%20need%20your%20Economy%20plan.Can%20you%20please%20help%20me ?"
+    "whatsapp": "https://api.whatsapp.com/send?phone=918986774801&text=Hello%21%20CapsCode.%20I%20need%20your%20Economy%20plan.Can%20you%20please%20help%20me ?"
   },
   {
     "title": "Deluxe",
-	"subheader": "Offer Price",
+    "subheader": "Offer Price",
     "price": "9999",
-    "description": ["Multi page website","1 year free hosting","6 month support","24/7 support","Free logo", "Free graphics"],
+    "description": [
+      "Multi page website",
+      "1 year free hosting",
+      "6 month support",
+      "24/7 support",
+      "Free logo",
+      "Free graphics"
+    ],
     "buttonText": "I Want This",
     "buttonVariant": "outlined",
-	"whatsapp": "https://api.whatsapp.com/send?phone=918986774801&text=Hello%21%20CapsCode.%20I%20need%20your%20Deluxe%20plan.Can%20you%20please%20help%20me ?"
+    "whatsapp": "https://api.whatsapp.com/send?phone=918986774801&text=Hello%21%20CapsCode.%20I%20need%20your%20Deluxe%20plan.Can%20you%20please%20help%20me ?"
   },
   {
     "title": "Android App/ PWA",
-	"subheader": "Offer Price",
+    "subheader": "Offer Price",
     "price": "2499",
-    "description": ["Android app","Free publish","3 month support","Free logo", "Free graphics"],
+    "description": [
+      "Android app",
+      "Free publish",
+      "3 month support",
+      "Free logo",
+      "Free graphics"
+    ],
     "buttonText": "Coming Soon",
     "buttonVariant": "outlined",
-	"whatsapp": ""
+    "whatsapp": ""
   },
   {
     "title": "Ecommerce Site",
-	"subheader": "Coming Soon",
+    "subheader": "Coming Soon",
     "price": "NA",
-    "description": ["Website + Android app","3 month support","Free logo", "Free graphics","Payment gateway"],
+    "description": [
+      "Website + Android app",
+      "3 month support",
+      "Free logo",
+      "Free graphics",
+      "Payment gateway"
+    ],
     "buttonText": "Coming Soon",
     "buttonVariant": "outlined",
-	"whatsapp": ""
+    "whatsapp": ""
   }
 ]
