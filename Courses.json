@@ -37,7 +37,7 @@
 		"enrollLink": "https://docs.google.com/forms/d/e/1FAIpQLScu23bRZ2OjNmZFLVcBp2S0a1_O6hBBu0Gg2Uq7fi72uRFDRg/viewform?usp=sf_link",
         "courseDuration": "4 months",
         "image": "https://capscode-website.github.io/capscodefiles/Image/reactjs.png?raw=true",
-        "syllabus": ["0: Weekly 1-2-1 doubt clearning classes","1:What is React","2:Use of React","3:Types of components","4:Components & Props","5:State and Lifecycle","6: Event Handling & Conditional Rendering","7: List in React","8: Inheritance in React","9: Forwarding Refs","10: Context","11:Fragments","12:HOC","13: Portals","14: Portals & Reconciliation","15: ReactDOM and DOM Elements","16: Hooks", "17: Materail UI", "18: 1 Project"]
+        "syllabus": ["0: Weekly 1-2-1 doubt clearning classes","1:What is React","2:Use of React","3:Types of components","4:Components & Props","5:State and Lifecycle","6: Event Handling & Conditional Rendering","7: List in React","8: Inheritance in React","9: Forwarding Refs","10: Context","11:Fragments","12:HOC","13: Portals","14: Portals & Reconciliation","15: ReactDOM and DOM Elements","16: Hooks","17: Code splitting", "18: Custom hooks", "19: Materail UI", "20: 5 Project"]
     },
 	{
         "id": "4",
