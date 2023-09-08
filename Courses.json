@@ -41,12 +41,12 @@
     },
 	{
         "id": "4",
-        "courseName": "Next JS 13",
+        "courseName": "NextJS 13",
         "courseDescrption": "One of the most demanding JavaScript Library for Web in 2023",
         "coursePrice": "₹16999/-",
 		"enrollLink": "https://docs.google.com/forms/d/e/1FAIpQLScu23bRZ2OjNmZFLVcBp2S0a1_O6hBBu0Gg2Uq7fi72uRFDRg/viewform?usp=sf_link",
         "courseDuration": "4 months",
-        "image": "https://capscode-website.github.io/capscodefiles/Image/reactjs.png?raw=true",
+        "image": "https://capscode-website.github.io/capscodefiles/Image/nextjs.png?raw=true",
         "syllabus": ["0: Weekly 1-2-1 doubt clearning classes","1: ReactJS basics","2:What is NextJS & its importance","3:Routing","4: Dynamic routing","5:State and Lifecycle","6: Meta tags","7: Different rendering pattern","8: Server side rendering in NextJS13","9: 1 Project"]
     },
     {
